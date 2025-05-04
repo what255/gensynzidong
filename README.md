@@ -1,4 +1,4 @@
-# gensynzidong
+# gensyn macM4稳定运行
 
 MAC M4想要稳定运行需要修改
 vim rl-swarm/hivemind_exp/configs/mac/grpo-qwen-2.5-0.5b-deepseek-r1.yaml
